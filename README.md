@@ -1,4 +1,4 @@
-# hey! RUDRA here!
+# hey! I'm Rudra :)
 
 A guy who started with Blender 3D and Unity, then got into web development with HTML, CSS, and React. Now diving into TypeScript. 
 Follow my tech journey and see where it goes!
